@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+title: >-
+  Survey results of project-based learning process to
+  students of the Department of Educational Technology
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Rengga Prakoso
+    family-names: Nugroho
+    email: rengganugroho@teknologipendidikan.or.id
+    affiliation: Universitas Negeri Malang
+    orcid: 'https://orcid.org/0000-0002-7604-7150'
+  - given-names: Yerry
+    family-names: Soepriyanto
+    email: yerry.soepriyanto.fip@um.ac.id
+    affiliation: Universitas Negeri Malang
+    orcid: 'https://orcid.org/0000-0002-8735-6493'
+  - name: Universitas Negeri Malang
+    address: Jalan Semarang No.5
+    city: Malang
+    post-code: '65145'
+    region: East Java
+    country: ID
+    email: rektor@um.ac.id
+    alias: UM
+    website: 'https://um.ac.id'
+  - name: PT Inovasi Teknologi Pembelajaran
+    address: Sawocangkring
+    city: Sidoarjo
+    post-code: '61261'
+    region: Jawa Timur
+    email: komunikasi@teknologipendidikan.or.id
+    tel: 085748250120
+    website: 'https://teknologipendidikan.or.id'
+    country: ID
+repository-code: >-
+  https://github.com/teknologi-pendidikan/research-sentimentanalysis
+url: 'https://labs.teknologipendidikan.or.id/'
+abstract: >-
+  Analisis Sentimen terhadap survei proses pembelajaran
+  mahasiswa
+keywords:
+  - project based learning
+  - learning experiences
+  - authentic assesment
+license: CC-BY-SA-4.0
+commit: 9621f3ca2f76a6dc8f1d9ade911cbda3762d4f91
+version: 0.6.0-alpha
+date-released: '2024-01-08'
